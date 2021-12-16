@@ -1,8 +1,8 @@
 import "./App.css";
-import Question from "./components/9.1/9.1.components.jsx";
+import Board from "./components/Board.components";
 
 function App() {
-	return <Question />;
+	return <Board />;
 }
 
 export default App;
