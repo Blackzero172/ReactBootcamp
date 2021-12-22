@@ -1,5 +1,5 @@
 import "./App.css";
-import Question from "./components/ToDo/ToDo.components";
+import Question from "./components/MockAPI/GPUs.components.jsx";
 
 function App() {
 	return <Question />;
