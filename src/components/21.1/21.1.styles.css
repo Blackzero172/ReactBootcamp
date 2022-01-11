@@ -1,0 +1,7 @@
+.hidden {
+	display: none;
+}
+.flex-container {
+	display: flex;
+	justify-content: center;
+}
